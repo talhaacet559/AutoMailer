@@ -1,0 +1,16 @@
+{
+  "Corp1": {
+        "company": "Corp1",
+        "recipient": "abc@corp1.com",
+        "Name": "ABC",
+        "CC": "acb.sos@corp1.com"
+    },
+
+  "Corp2": {
+        "company": "Corp2",
+        "recipient": "abc@corp2.com",
+        "Name": "ABC",
+        "CC": "acb.sos@corp2.com"
+    }
+}
+
