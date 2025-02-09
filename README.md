@@ -1,2 +1,2 @@
 # AutoMailer
- Automail class created for group mails wiith pdf attachments. Class is easily customizable and flexible
+ Automail class created for group mails with pdf attachments as Outlook Macro for Windows Environments.
